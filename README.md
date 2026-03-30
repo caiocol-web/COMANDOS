@@ -1,7 +1,7 @@
 ![Banner](bannergit.png.png)
 
 
-## GIT BASH😁
+## GIT BASH
 
 1. **git config** --list = comando que lista as configurações do git bash;
 
@@ -13,7 +13,7 @@
 
 5. **git config --global --unset--all user** = oque vc quer tirar. Ex name, email, etc;
 
-## TERMINAL😎
+## TERMINAL
 
 1. **cls** = limpa cmd;
 
@@ -34,7 +34,7 @@
 9. **explorer** = abre pasta no windows;
     
 
-## PARA O GIT HUB(TERMINAL)😺
+## PARA O GIT HUB(TERMINAL)
    
 10. **git clone** (link);
 
