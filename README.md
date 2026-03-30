@@ -48,6 +48,16 @@
 
 15. **git pull** ( linka do git para o pc);
 
+## **PARA O C:**
+
+16. **#include <stdio.h>:** Biblioteca padrão de entrada e saída;
+    
+17. **int main() { ... }:** Função principal onde a execução começa;
+    
+18. **printf("Texto ou %d", variavel):** Exibe dados formatados;
+
+19. **scanf("%d", &variavel);:** Lê dados do teclado;
+
 ### **OBS (tab ajuda a pesquisar)**
 
 
