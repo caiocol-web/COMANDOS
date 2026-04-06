@@ -58,6 +58,8 @@
 
 19. **scanf("%d", &variavel);:** Lê dados do teclado;
 
+20. **if/else/else if**: condicional de pergunta;
+
 ### **OBS (tab ajuda a pesquisar)**
 
 
